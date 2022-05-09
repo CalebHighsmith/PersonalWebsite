@@ -1,6 +1,6 @@
 {
   "name": "portfolio_nextjs",
-  "homepage": "https://CalebHighsmith.github.io/Personal-Portfolio",
+  "homepage": "http://CalebHighsmith.github.io/PersonalWebsite",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "next build && next export",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "next": "10.2.3",
@@ -19,6 +19,7 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "s": "^1.0.0"
   }
 }

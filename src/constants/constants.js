@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'To-Do App',
     description:"	Developed a TODO application that uses CRUD development features to handle requests. This project also utilizes JSON local storage to ensure changes are saved when refreshed. It also has added quality of life features such as light and dark mode and alerts!",
-    image: '/images/todo.png',
+    image: 'images/todo.png',
     tags: ['React', 'JavaScript', 'ChakraUI'],
     source: 'https://github.com/CalebHighsmith/ToDo-App',
     visit: 'https://google.com',

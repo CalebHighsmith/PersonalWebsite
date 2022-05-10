@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Medical Insurance Calculator',
     description: "One of my very first projects where I	created a working calculator that returns the cost of medical insurance based off a variety of factors such as BMI, Age, Sex etc. It was also built to allow for data processing by implementing CSV files to then be used by the code base to produce a calculation.",
-      image: '/images/Calculator.jpeg',
+      image: '/images/calculator.jpeg',
       tags: ['Python'],
     source: 'https://github.com/CalebHighsmith/Medical-Insurance-Project',
     visit: 'https://google.com',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'To-Do App',
     description:"	Developed a TODO application that uses CRUD development features to handle requests. This project also utilizes JSON local storage to ensure changes are saved when refreshed. It also has added quality of life features such as light and dark mode and alerts!",
-    image: '/images/Todo.png',
+    image: '/images/todo.png',
     tags: ['React', 'JavaScript', 'ChakraUI'],
     source: 'https://github.com/CalebHighsmith/ToDo-App',
     visit: 'https://google.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Mock Landing Site',
     description: "This is a landing site to simulate downloading an app from!",
-      image: '/images/Mock.jpg',
+      image: '/images/mock.jpg',
       tags: ['HTML', 'CSS','JavaScript', 'Jquery'],
     source: 'https://github.com/CalebHighsmith/Mock-Landing-Site',
     visit: 'https://google.com',
